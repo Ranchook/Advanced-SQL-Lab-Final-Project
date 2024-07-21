@@ -1,0 +1,34 @@
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.csproj.AssemblyReference.cache
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\HW3_labDB.Admin_Form.resources
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\HW3_labDB.ForgotPass.resources
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\HW3_labDB.Main_Form.resources
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.Properties.Resources.resources
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\HW3_labDB.User_Form.resources
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.csproj.GenerateResource.cache
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.csproj.CoreCompileInputs.cache
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\bin\Debug\LabDB_Project.exe.config
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\bin\Debug\LabDB_Project.exe
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\bin\Debug\LabDB_Project.pdb
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.exe
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.pdb
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.Login_Form.resources
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.Register_Form.resources
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.AddBook_Form.resources
+C:\Users\rash9\source\repos\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.MoreOptions_Form.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\bin\Debug\LabDB_Project.exe.config
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\bin\Debug\LabDB_Project.exe
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\bin\Debug\LabDB_Project.pdb
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.csproj.AssemblyReference.cache
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.AddBook_Form.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\HW3_labDB.Admin_Form.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\HW3_labDB.ForgotPass.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.Login_Form.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\HW3_labDB.Main_Form.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.MoreOptions_Form.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.Properties.Resources.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.Register_Form.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\HW3_labDB.User_Form.resources
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.csproj.GenerateResource.cache
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.csproj.CoreCompileInputs.cache
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.exe
+R:\לימודים\שנה ד\סמסטר קיץ\מעבדה SQL\מטלות\LabDB_Project_RanShneor_EyalRonen\LabDB_Project\LabDB_Project\obj\Debug\LabDB_Project.pdb
